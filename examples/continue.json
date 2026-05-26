@@ -1,0 +1,10 @@
+[
+  {
+    "name": "orcarouter",
+    "command": "npx",
+    "args": ["-y", "@anthropic-ai/orcarouter-mcp-server"],
+    "env": {
+      "OPENROUTER_API_KEY": "sk-or-v1-YOUR_API_KEY_HERE"
+    }
+  }
+]
